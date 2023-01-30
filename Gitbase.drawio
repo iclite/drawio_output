@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" modified="2023-01-30T08:25:25.621Z" agent="5.0 (Windows)" etag="TSVf4CInNQzF4Bo0CSaA" version="20.8.13" type="github">
+  <diagram name="第 1 页" id="fBLBZeewMcvNFkQFJLEn">
+    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZNIe-A7qrVrE8Q_3lxjF-3" value="&lt;div align=&quot;left&quot;&gt;- 版本控制&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- 用户权限&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- 数据管理&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="40" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNIe-A7qrVrE8Q_3lxjF-4" value="创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNIe-A7qrVrE8Q_3lxjF-5" value="读取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNIe-A7qrVrE8Q_3lxjF-7" value="写入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNIe-A7qrVrE8Q_3lxjF-8" value="更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNIe-A7qrVrE8Q_3lxjF-9" value="删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNIe-A7qrVrE8Q_3lxjF-11" value="删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNIe-A7qrVrE8Q_3lxjF-12" value="新增" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
